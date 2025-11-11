@@ -50,7 +50,6 @@ SaveBite is a platform that connects restaurants, groceries, and food providers 
 - Flexible schema for scaling
 
 ---
----
 
 ## 🛠️ Setup Guide
 
@@ -84,6 +83,7 @@ http://127.0.0.1:8000/docs
 cd presentation_layer
 python main.py
 
+---
 
 | Authors        |
 | --------------- |
