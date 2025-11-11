@@ -70,16 +70,17 @@ pip install httpx pytest pytest-cov
 
 pip install fastapi uvicorn passlib bcrypt python-multipart flet httpx pytest pytest-cov
 
-🖥️ Local Development
-1️⃣ Clone the Repository
+### 🖥️ Local Development
+
+##1️⃣ Clone the Repository
 git clone https://github.com/Richmunddd/ECO-Action-Tracker.git
 cd ECO-Action-Tracker
 
-2️⃣ Run the API Server
+##2️⃣ Run the API Server
 uvicorn backend_api.main:app --reload
 http://127.0.0.1:8000/docs
 
-3️⃣ Run the Frontend User Interface
+##3️⃣ Run the Frontend User Interface
 cd presentation_layer
 python main.py
 
