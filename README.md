@@ -52,9 +52,9 @@ SaveBite is a platform that connects restaurants, groceries, and food providers 
 ---
 
 
-| Member          | Role               | Responsibilities                      |
-| --------------- | ------------------ | ------------------------------------- |
-| Sonnelo De Vera | Backend Developer  | FastAPI backend, algorithms,          |
-| Martin Salinas  | Frontend Developer | Flet UI, visualizations,              |
-| David Lopez     | —                  | Testing, documentation, final report  |
-| Elijah Santos   | —                  | database, final reports, presentation |
+| Member          |
+| --------------- |
+| Sonnelo De Vera |
+| David Lopez     |
+| Martin Salinas  |
+| Elijah Santos   |
