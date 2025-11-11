@@ -39,3 +39,24 @@ SaveBite is a platform that connects restaurants, groceries, and food providers 
 - JSON data exchange (frontend ↔ backend)
 - Async server for scalable performance
 - Auto-generated interactive API docs at:
+
+
+---
+
+## 🗄️ Database (MongoDB)
+
+- Stores users, donations, pickups, and activity logs
+- Efficient handling of real-time updates
+- Flexible schema for scaling
+
+---
+
+## 📂 Project Structure
+
+
+---
+
+## 🚀 Run the Project
+
+### **Start Backend**
+```bash
