@@ -62,7 +62,6 @@ Make sure you have the following installed:
 
 ### 📦 Install Dependencies
 
-```bash
 pip install fastapi uvicorn
 pip install passlib bcrypt python-multipart
 pip install flet
